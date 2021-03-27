@@ -17,6 +17,9 @@ public class DiamondHacksGUI implements ActionListener {
 
         JPanel panel = new JPanel();
 
+        JLabel resultsLabel = new JLabel("Enter data below...");
+        panel.add(resultsLabel);
+
         JLabel companiesLabel = new JLabel("Enter companies you would like to search through here. (Separate with commas, no spaces)");
         JTextField companiesText = new JTextField(100);
         panel.add(companiesLabel);
@@ -44,6 +47,9 @@ public class DiamondHacksGUI implements ActionListener {
 
         button.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
+                resultsLabel.setText("<html>");
+
+
                 List<String> companiesKeyword = program.Keyword(companiesString, positionsString);
                 String[] companyName = program.CompanyResult(companiesKeyword);
                 String[] positionName = program.PositionResult(companiesKeyword);
