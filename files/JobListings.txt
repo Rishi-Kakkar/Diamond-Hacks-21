@@ -10,7 +10,6 @@ Amazon - Operations IT and Support Engineering
 Amazon - Sales Advertising and Account Management
 Amazon - Systems Quality and Security Engineering
 Amazon - Solutions Architect
-
 Apple - Software Engineer Intern working on Cybersecurity
 Apple - Front End Developer
 Apple - Audio Video Photography Production
@@ -23,7 +22,6 @@ Apple - Operations IT and Support Engineering
 Apple - Sales Advertising and Account Management
 Apple - Systems Quality and Security Engineering
 Apple - Solutions Architect
-
 IBM - Hardware Engineer working on Electrical
 IBM - Client Facing Platform Support Engineering
 IBM - Application Developer
@@ -36,7 +34,6 @@ IBM - Cloud Application Developer
 IBM - Cloud Network Sales Engineer
 IBM - Analytics Delivery Leader
 IBM - Mobile Application Developer
-
 Google - Engineering Lead Devices and Services
 Google - Business Development Program Manager
 Google - Strategy handle Operations Manager Global Services
@@ -49,7 +46,6 @@ Google - Solution Delivery Lead Customer Interaction Management Solutions
 Google - Customer Engineer Telecommunications Specialist Google Cloud
 Google - Central Strategy and Operations Lead gTech Users & Products
 Google - Business Process Optimization Program Manager
-
 Bank of America - Analyst/Associate/Vice President- FICC Trading Real Estate Structured Finance Group
 Bank of America - Business Analyst II - Jersey City NJ Or Charlotte NC
 Bank of America - Data Analyst
@@ -62,7 +58,6 @@ Bank of America - NFRR - Quality Assurance
 Bank of America - UI Developer Software Engineer Enterprise Finance Technology
 Bank of America - Application Engineer - Data Management
 Bank of America - Global Risk Governance and Strategy
-
 PepsiCo - Associate Manager
 PepsiCo - Accountant Executive
 PepsiCo - HR Project Coordinator
@@ -75,7 +70,6 @@ PepsiCo - Facilities Operations Manager
 PepsiCo - Finance Analyst
 PepsiCo - Global Risk Management Analyst
 PepsiCo - Manufacturing Manager
-
 Adidas - Business Operations Analyst
 Adidas - Director Distribution Operations
 Adidas - Inbound Transportation Analyst
