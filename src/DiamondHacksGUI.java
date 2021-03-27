@@ -1,5 +1,9 @@
 import javax.swing.*;
 import java.awt.*;
+import java.util.ArrayList;
+import java.io.*;
+import java.util.*;
+import java.util.List;
 
 public class DiamondHacksGUI {
     public static void main(String args[]) {
@@ -11,18 +15,17 @@ public class DiamondHacksGUI {
 
         JPanel panel = new JPanel();
 
-        JLabel companiesLabel = new JLabel("Companies.");
-        JTextField companiesText = new JTextField("Enter companies you would like to search through here. (Separate with commas)", 100);
+        JLabel companiesLabel = new JLabel("Enter companies you would like to search through here. (Separate with commas)");
+        JTextField companiesText = new JTextField(100);
         panel.add(companiesLabel);
         panel.add(companiesText);
 
-        JLabel positionsLabel = new JLabel("Positions.");
-        JTextField positionsText = new JTextField("Enter keywords for positions you would like to search for here. (Separate with commas)", 100);
+        JLabel positionsLabel = new JLabel("Enter keywords for positions you would like to search for here. (Separate with commas)");
+        JTextField positionsText = new JTextField(100);
         panel.add(positionsLabel);
         panel.add(positionsText);
 
         panel.add(button);
-        button.addActionListener(new ActionListener())
 
         panel.setBorder(BorderFactory.createEmptyBorder(600, 600, 200, 600));
         panel.setLayout(new GridLayout(0, 1));
@@ -34,8 +37,8 @@ public class DiamondHacksGUI {
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
         frame.setVisible(true);
 
-        String getText(companiesText);
-        String getText(positionsText);
+        String companiesString = companiesText.getText();
+        String positionsString = positionsText.getText();
 
         List<String> companiesKeyword = program.Keyword(companiesString);
     }

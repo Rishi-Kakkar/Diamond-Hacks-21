@@ -1,6 +1,8 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
+import java.awt.*;
+import java.util.ArrayList;
+import java.io.*;
+import java.util.*;
+import java.util.List;
 
 public class DiamondHacksProgram {
 
